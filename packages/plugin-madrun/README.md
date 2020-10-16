@@ -20,7 +20,6 @@ Add `.putout.json` with:
 {
     "plugins": {
         "madrun": "on"
-    ]
 }
 ```
 
