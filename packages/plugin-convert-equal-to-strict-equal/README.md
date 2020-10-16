@@ -20,7 +20,7 @@ Rule `convert-equal-to-strict-equal` is enabled by default, to disable add to `.
 ```json
 {
     "rules": {
-        "convert-equal-to-strict-equal": false
+        "convert-equal-to-strict-equal": "off"
     }
 }
 ```
