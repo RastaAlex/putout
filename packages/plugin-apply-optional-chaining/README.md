@@ -19,7 +19,7 @@ npm i @putout/plugin-apply-optional-chaining
 ```json
 {
     "rules": {
-        "apply-optional-chaining": true
+        "apply-optional-chaining": "on"
     }
 }
 ```
